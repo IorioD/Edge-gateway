@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "mqtt.server.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.server.host'"
+  },
+  {
+    "name": "mqtt.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.server.port'"
+  },
+  {
+    "name": "mqtt.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.client.id'"
+  }
+]}
